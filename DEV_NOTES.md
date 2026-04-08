@@ -1,0 +1,7 @@
+# Dev Notes
+
+Personal development log — notes, findings, and ongoing work.
+
+## 2026-04-08
+- Reorganised test fixtures
+- Checked for memory leaks in long-running path
