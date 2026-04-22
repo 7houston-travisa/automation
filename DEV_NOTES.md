@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Checked for memory leaks in long-running path
 - Wrote notes on upcoming feature design
+
+## 2026-04-22
+- Added basic usage examples to README
+- Investigated performance bottleneck, noted findings
