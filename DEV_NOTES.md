@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Noted known limitation in docs
+
+## 2026-04-22
+- Cleaned up old debug logs
+- Checked for memory leaks in long-running path
+- Wrote notes on upcoming feature design
